@@ -1,2 +1,4 @@
 Status: Ongoing
-This is a Project which I have created to learn how to create an web page using HTML and CSS only.  
+
+
+This Project which I have build to learn web page using HTML and CSS only.  
